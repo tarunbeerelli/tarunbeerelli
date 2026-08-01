@@ -2,7 +2,7 @@ I work at the intersection of optimization, learning, and intelligent systems. M
 
 ---
 
-### Current
+### Recent
 
 **RLEF-Code** — `RL` `GRPO` `LLM post-training`
 Multi-turn GRPO teaching Qwen2.5-Coder-7B to repair its own code against a live execution sandbox; attention hosts error repair, and capacity does not buy it.
